@@ -3,3 +3,6 @@ SEKARANG
   -selasa
   -rabu
   -kamis
+=kamis
+sabtu
+minngu
